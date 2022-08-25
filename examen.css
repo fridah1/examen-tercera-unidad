@@ -1,0 +1,48 @@
+body{
+    display: flex;
+    justify-content: center;
+    background-color:  #a2cbf1;
+    
+}
+
+.foto1{
+    display: flex;
+    position: center;
+    left: 100px;
+    top: 200px;
+    width: 500px;
+    height: 400px;
+}
+
+.info__titulo--texto{
+    
+    margin-left: 175px;
+    position: center ;
+    font-family: 'Kiwi Maru', serif;
+    font-family: 'Quicksand', sans-serif; 
+    font-style: normal;
+    font-weight: 100;
+    font-size: 20px;
+    line-height: 75px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    letter-spacing: -0.47px;
+    padding-top: 10px;
+}
+
+.texto{
+    margin-left: 115px;
+    position: center;
+    font-family: 'Kiwi Maru', serif;
+    font-family: 'Quicksand', sans-serif; 
+    font-style: normal;
+    font-weight: 100;
+    font-size: 20px;
+    line-height: 75px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    letter-spacing: -0.47px;
+    padding-top: 10px;
+}
